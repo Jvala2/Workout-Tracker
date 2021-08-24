@@ -36,7 +36,7 @@ The site should be live at https://evening-falls-00585.herokuapp.com/
 
 ## Usage
 
-Users can click on various functions on the site
+Users can input reps, intensity, weight, amount of exercise, and track their workout duration.
 
 
     
